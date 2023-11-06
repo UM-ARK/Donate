@@ -4,6 +4,7 @@
 - 捐贈後可以發送您的捐贈截圖和您的稱謂到我們的郵箱`umacark@gmail.com`，將在Wiki的ARK捐贈列表中留下您的名字！
 - 您不必提供您的真實信息，您也可以附一些想對ARK說的話，都將在Wiki頁發佈！
 - 如不發送郵件，我們可能會遺漏您的捐贈訊息。如您仍選擇匿名捐贈，感謝您對ARK ALL項目的支持！
+- 查看我們的開發計劃：https://github.com/UM-ARK/UM-All-Frontend/issues
 - 我們保持聯繫！
 
 # 澳門中銀
