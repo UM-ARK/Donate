@@ -3,6 +3,8 @@ ARK ALL是一個開源項目，UM ARK構建了許多關於澳大的服務，為�
 
 如果您覺得ARK ALL用得不錯，可以請我們喝杯咖啡！
 
+捐贈後可以發送您的捐贈截圖和您的稱謂到我們的郵箱`umacark@gmail.com`，將在Wiki的ARK捐贈列表中留下您的名字！
+
 # 澳門中銀
 ![boc](https://github.com/UM-ARK/Donate/assets/55580370/1fab178d-c090-472b-8de2-9188112f721c)
 
