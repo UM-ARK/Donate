@@ -9,6 +9,14 @@
 - 查看我們的開發計劃：https://github.com/UM-ARK/UM-All-Frontend/issues
 - 我們保持聯繫！
 
+## 您的捐贈將用去何處？
+- PUSH 開發者，使頻繁更新內容。
+- 升級ARK的後端服務器，壙充容量，承載更多服務。（例Wiki的圖片上傳）
+- 購置開發硬件。（例iOS應用需要使用Mac進行開發，已掏空腰包）
+- 組織線下活動。（例社團組織教學）
+- 組織周邊購/贈活動。（例2022年ARK鑰匙扣閃送活動）
+- 等等等等
+
 # 澳門中銀
 ![boc](https://github.com/UM-ARK/Donate/assets/55580370/1fab178d-c090-472b-8de2-9188112f721c)
 
