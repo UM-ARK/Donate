@@ -23,20 +23,20 @@
 
 # 💴 澳門中銀
 <div align="center">
-  <img src="https://github.com/UM-ARK/Donate/assets/55580370/1fab178d-c090-472b-8de2-9188112f721c" width = "30%" alt="boc"/>
+  <img src="https://github.com/UM-ARK/Donate/assets/55580370/1fab178d-c090-472b-8de2-9188112f721c" width = "50%" alt="boc"/>
 </div>
 
 # 💴 Mpay
 <div align="center">
-  <img src="https://github.com/UM-ARK/Donate/assets/55580370/044328f9-b609-4ec1-8d16-e8eedd32deca" width = "30%" alt="mpay"/>
+  <img src="https://github.com/UM-ARK/Donate/assets/55580370/044328f9-b609-4ec1-8d16-e8eedd32deca" width = "50%" alt="mpay"/>
 </div>
 
 # 💴 微信
 <div align="center">
-  <img src="https://github.com/UM-ARK/Donate/assets/55580370/afb248b8-3d3b-4954-aac7-a5742a3ae53c" width = "30%" alt="wechat"/>
+  <img src="https://github.com/UM-ARK/Donate/assets/55580370/afb248b8-3d3b-4954-aac7-a5742a3ae53c" width = "50%" alt="wechat"/>
 </div>
 
 # 💴 支付寶
 <div align="center">
-  <img src="https://github.com/UM-ARK/Donate/assets/55580370/04f246ab-ff80-4a4a-ba48-cf2dc243b0e0" width = "30%" alt="alipay"/>
+  <img src="https://github.com/UM-ARK/Donate/assets/55580370/04f246ab-ff80-4a4a-ba48-cf2dc243b0e0" width = "50%" alt="alipay"/>
 </div>
