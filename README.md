@@ -5,10 +5,8 @@
 ## 💹 您的寶貴贊助將用於對ARK的各類應用、服務進行維護、升級！
 - [💰 捐贈/Donate UM ARK](#-捐贈donate-um-ark)
   - [🧾 您的捐贈將用去何處？](#-您的捐贈將用去何處)
-- [💴 澳門中銀 BOC](#-澳門中銀-boc)
-- [💴 Mpay](#-mpay)
-- [💴 微信 WeChat Pay](#-微信-wechat-pay)
-- [💴 支付寶 Alipay](#-支付寶-alipay)
+- [💴 愛發電 / 爱发电](#-愛發電--爱发电)
+- [💴 其他捐贈渠道](#-其他捐贈渠道)
 
 # 💰 捐贈/Donate UM ARK
 - ARK ALL是一個為愛發電的開源項目，UM ARK開發團隊開發了許多關於澳大的服務，為師生服務。開發團隊為此投入了很多，需要資金回轉。
@@ -27,25 +25,30 @@
 - 組織周邊購/贈活動。（例2022年ARK鑰匙扣閃送活動）
 - 等等等等
 
+
 # 💴 愛發電 / 爱发电
 https://afdian.com/a/umacark
 
-# 💴 澳門中銀 BOC
-<div align="center">
-  <img src="https://github.com/UM-ARK/Donate/assets/55580370/1fab178d-c090-472b-8de2-9188112f721c" width = "50%" alt="boc"/>
-</div>
-
-# 💴 Mpay
-<div align="center">
-  <img src="https://github.com/UM-ARK/Donate/assets/55580370/044328f9-b609-4ec1-8d16-e8eedd32deca" width = "50%" alt="mpay"/>
-</div>
-
-# 💴 微信 WeChat Pay
-<div align="center">
-  <img src="https://github.com/UM-ARK/Donate/assets/55580370/afb248b8-3d3b-4954-aac7-a5742a3ae53c" width = "50%" alt="wechat"/>
-</div>
-
-# 💴 支付寶 Alipay
-<div align="center">
-  <img src="https://github.com/UM-ARK/Donate/assets/55580370/04f246ab-ff80-4a4a-ba48-cf2dc243b0e0" width = "50%" alt="alipay"/>
-</div>
+# 💴 其他捐贈渠道
+<table>
+  <tr>
+    <td align="center">
+      <b>💴 澳門中銀 BOC</b><br/>
+      <img src="https://github.com/UM-ARK/Donate/assets/55580370/1fab178d-c090-472b-8de2-9188112f721c" width="80%" alt="boc"/>
+    </td>
+    <td align="center">
+      <b>💴 Mpay</b><br/>
+      <img src="https://github.com/UM-ARK/Donate/assets/55580370/044328f9-b609-4ec1-8d16-e8eedd32deca" width="80%" alt="mpay"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>💴 微信 WeChat Pay</b><br/>
+      <img src="https://github.com/UM-ARK/Donate/assets/55580370/afb248b8-3d3b-4954-aac7-a5742a3ae53c" width="80%" alt="wechat"/>
+    </td>
+    <td align="center">
+      <b>💴 支付寶 Alipay</b><br/>
+      <img src="https://github.com/UM-ARK/Donate/assets/55580370/04f246ab-ff80-4a4a-ba48-cf2dc243b0e0" width="80%" alt="alipay"/>
+    </td>
+  </tr>
+</table>
