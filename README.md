@@ -27,6 +27,9 @@
 - 組織周邊購/贈活動。（例2022年ARK鑰匙扣閃送活動）
 - 等等等等
 
+# 💴 愛發電 / 爱发电
+https://afdian.com/a/umacark
+
 # 💴 澳門中銀 BOC
 <div align="center">
   <img src="https://github.com/UM-ARK/Donate/assets/55580370/1fab178d-c090-472b-8de2-9188112f721c" width = "50%" alt="boc"/>
